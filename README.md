@@ -19,8 +19,8 @@ Damaged phases will either not light up or light up less bright then the rest.
 With tips and help with the PCB design from A. Fedorov.\
 Based on [Miha Vuk](https://youtu.be/itS592cHuSg) his idea for testing an esc with 3 light bulbs.
 
-## Preview of beta version
-![instagram](CLb5iyfnDAm)
+## Preview of beta version on my Instagram
+![Instagram](https://www.instagram.com/p/CLb5iyfnDAm)
 
 ## PCB pictures
 ![ESC Tester](https://github.com/LouDnl/Esc-Phase-Tester/blob/main/ESC%20Tester.png)\
