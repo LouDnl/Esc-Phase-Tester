@@ -3,7 +3,7 @@ Simple ESC tester with LED's to test each phase of the 3 ESC outputs.
 Schematics in [PDF](https://github.com/LouDnl/Esc-Phase-Tester/blob/main/ESC_TESTER%20schematic.pdf)
 
 ## Order PCB
-Order at [Osh Park](https://oshpark.com/shared_projects/HtxU3gmh) for only €2,20
+Order at [Osh Park](https://oshpark.com/shared_projects/xSDHzsAY) for only €2,20
 
 ## Requires
 6x LED 1210 footprint\
